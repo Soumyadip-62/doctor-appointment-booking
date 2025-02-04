@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. John Doe",
+        "specialization": "Cardiologist",
+        "clinic_address": "10 Heart Lane, New York, NY",
+        "experience": 12,
+        "appointment_fees": 150,
+        "contact": "john.doe@example.com",
+        "image": "https://randomuser.me/api/portraits/men/0.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Sarah Smith",
+        "specialization": "Dermatologist",
+        "clinic_address": "20 Skin Care Ave, Los Angeles, CA",
+        "experience": 8,
+        "appointment_fees": 120,
+        "contact": "sarah.smith@example.com",
+        "image": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Robert Brown",
+        "specialization": "Orthopedic Surgeon",
+        "clinic_address": "30 Bone Street, Chicago, IL",
+        "experience": 15,
+        "appointment_fees": 180,
+        "contact": "robert.brown@example.com",
+        "image": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Emily Davis",
+        "specialization": "Pediatrician",
+        "clinic_address": "40 Kids Care Rd, Houston, TX",
+        "experience": 10,
+        "appointment_fees": 100,
+        "contact": "emily.davis@example.com",
+        "image": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Michael Johnson",
+        "specialization": "Neurologist",
+        "clinic_address": "50 Brain Ave, Miami, FL",
+        "experience": 20,
+        "appointment_fees": 200,
+        "contact": "michael.johnson@example.com",
+        "image": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Sophia Lee",
+        "specialization": "Gynecologist",
+        "clinic_address": "60 Women's Health Blvd, Seattle, WA",
+        "experience": 14,
+        "appointment_fees": 140,
+        "contact": "sophia.lee@example.com",
+        "image": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dr. Daniel Wilson",
+        "specialization": "Psychiatrist",
+        "clinic_address": "70 Mind Care St, Denver, CO",
+        "experience": 9,
+        "appointment_fees": 130,
+        "contact": "daniel.wilson@example.com",
+        "image": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Dr. Olivia Martinez",
+        "specialization": "ENT Specialist",
+        "clinic_address": "80 Ear Nose Throat Dr, Boston, MA",
+        "experience": 11,
+        "appointment_fees": 110,
+        "contact": "olivia.martinez@example.com",
+        "image": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Dr. William Anderson",
+        "specialization": "Ophthalmologist",
+        "clinic_address": "90 Vision Lane, San Diego, CA",
+        "experience": 18,
+        "appointment_fees": 160,
+        "contact": "william.anderson@example.com",
+        "image": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Dr. Ava Thomas",
+        "specialization": "Dentist",
+        "clinic_address": "100 Smile Ave, Atlanta, GA",
+        "experience": 7,
+        "appointment_fees": 90,
+        "contact": "ava.thomas@example.com",
+        "image": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Dr. James White",
+        "specialization": "General Physician",
+        "clinic_address": "110 Wellness Rd, Austin, TX",
+        "experience": 13,
+        "appointment_fees": 100,
+        "contact": "james.white@example.com",
+        "image": "https://randomuser.me/api/portraits/men/10.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Dr. Lily Harris",
+        "specialization": "Oncologist",
+        "clinic_address": "120 Cancer Care St, Philadelphia, PA",
+        "experience": 17,
+        "appointment_fees": 250,
+        "contact": "lily.harris@example.com",
+        "image": "https://randomuser.me/api/portraits/women/11.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Dr. John Doe",
+        "specialization": "Cardiologist",
+        "clinic_address": "130 Heart Lane, New York, NY",
+        "experience": 12,
+        "appointment_fees": 150,
+        "contact": "john.doe@example.com",
+        "image": "https://randomuser.me/api/portraits/men/12.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Dr. Sarah Smith",
+        "specialization": "Dermatologist",
+        "clinic_address": "140 Skin Care Ave, Los Angeles, CA",
+        "experience": 8,
+        "appointment_fees": 120,
+        "contact": "sarah.smith@example.com",
+        "image": "https://randomuser.me/api/portraits/women/13.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Dr. Robert Brown",
+        "specialization": "Orthopedic Surgeon",
+        "clinic_address": "150 Bone Street, Chicago, IL",
+        "experience": 15,
+        "appointment_fees": 180,
+        "contact": "robert.brown@example.com",
+        "image": "https://randomuser.me/api/portraits/men/14.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Dr. Emily Davis",
+        "specialization": "Pediatrician",
+        "clinic_address": "160 Kids Care Rd, Houston, TX",
+        "experience": 10,
+        "appointment_fees": 100,
+        "contact": "emily.davis@example.com",
+        "image": "https://randomuser.me/api/portraits/women/15.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Dr. Michael Johnson",
+        "specialization": "Neurologist",
+        "clinic_address": "170 Brain Ave, Miami, FL",
+        "experience": 20,
+        "appointment_fees": 200,
+        "contact": "michael.johnson@example.com",
+        "image": "https://randomuser.me/api/portraits/men/16.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Dr. Sophia Lee",
+        "specialization": "Gynecologist",
+        "clinic_address": "180 Women's Health Blvd, Seattle, WA",
+        "experience": 14,
+        "appointment_fees": 140,
+        "contact": "sophia.lee@example.com",
+        "image": "https://randomuser.me/api/portraits/women/17.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Dr. Daniel Wilson",
+        "specialization": "Psychiatrist",
+        "clinic_address": "190 Mind Care St, Denver, CO",
+        "experience": 9,
+        "appointment_fees": 130,
+        "contact": "daniel.wilson@example.com",
+        "image": "https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Dr. Olivia Martinez",
+        "specialization": "ENT Specialist",
+        "clinic_address": "200 Ear Nose Throat Dr, Boston, MA",
+        "experience": 11,
+        "appointment_fees": 110,
+        "contact": "olivia.martinez@example.com",
+        "image": "https://randomuser.me/api/portraits/women/19.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Dr. William Anderson",
+        "specialization": "Ophthalmologist",
+        "clinic_address": "210 Vision Lane, San Diego, CA",
+        "experience": 18,
+        "appointment_fees": 160,
+        "contact": "william.anderson@example.com",
+        "image": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Dr. Ava Thomas",
+        "specialization": "Dentist",
+        "clinic_address": "220 Smile Ave, Atlanta, GA",
+        "experience": 7,
+        "appointment_fees": 90,
+        "contact": "ava.thomas@example.com",
+        "image": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Dr. James White",
+        "specialization": "General Physician",
+        "clinic_address": "230 Wellness Rd, Austin, TX",
+        "experience": 13,
+        "appointment_fees": 100,
+        "contact": "james.white@example.com",
+        "image": "https://randomuser.me/api/portraits/men/22.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Dr. Lily Harris",
+        "specialization": "Oncologist",
+        "clinic_address": "240 Cancer Care St, Philadelphia, PA",
+        "experience": 17,
+        "appointment_fees": 250,
+        "contact": "lily.harris@example.com",
+        "image": "https://randomuser.me/api/portraits/women/23.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Dr. John Doe",
+        "specialization": "Cardiologist",
+        "clinic_address": "250 Heart Lane, New York, NY",
+        "experience": 12,
+        "appointment_fees": 150,
+        "contact": "john.doe@example.com",
+        "image": "https://randomuser.me/api/portraits/men/24.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Dr. Sarah Smith",
+        "specialization": "Dermatologist",
+        "clinic_address": "260 Skin Care Ave, Los Angeles, CA",
+        "experience": 8,
+        "appointment_fees": 120,
+        "contact": "sarah.smith@example.com",
+        "image": "https://randomuser.me/api/portraits/women/25.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Dr. Robert Brown",
+        "specialization": "Orthopedic Surgeon",
+        "clinic_address": "270 Bone Street, Chicago, IL",
+        "experience": 15,
+        "appointment_fees": 180,
+        "contact": "robert.brown@example.com",
+        "image": "https://randomuser.me/api/portraits/men/26.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Dr. Emily Davis",
+        "specialization": "Pediatrician",
+        "clinic_address": "280 Kids Care Rd, Houston, TX",
+        "experience": 10,
+        "appointment_fees": 100,
+        "contact": "emily.davis@example.com",
+        "image": "https://randomuser.me/api/portraits/women/27.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Dr. Michael Johnson",
+        "specialization": "Neurologist",
+        "clinic_address": "290 Brain Ave, Miami, FL",
+        "experience": 20,
+        "appointment_fees": 200,
+        "contact": "michael.johnson@example.com",
+        "image": "https://randomuser.me/api/portraits/men/28.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Dr. Sophia Lee",
+        "specialization": "Gynecologist",
+        "clinic_address": "300 Women's Health Blvd, Seattle, WA",
+        "experience": 14,
+        "appointment_fees": 140,
+        "contact": "sophia.lee@example.com",
+        "image": "https://randomuser.me/api/portraits/women/29.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Dr. Daniel Wilson",
+        "specialization": "Psychiatrist",
+        "clinic_address": "310 Mind Care St, Denver, CO",
+        "experience": 9,
+        "appointment_fees": 130,
+        "contact": "daniel.wilson@example.com",
+        "image": "https://randomuser.me/api/portraits/men/30.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Dr. Olivia Martinez",
+        "specialization": "ENT Specialist",
+        "clinic_address": "320 Ear Nose Throat Dr, Boston, MA",
+        "experience": 11,
+        "appointment_fees": 110,
+        "contact": "olivia.martinez@example.com",
+        "image": "https://randomuser.me/api/portraits/women/31.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Dr. William Anderson",
+        "specialization": "Ophthalmologist",
+        "clinic_address": "330 Vision Lane, San Diego, CA",
+        "experience": 18,
+        "appointment_fees": 160,
+        "contact": "william.anderson@example.com",
+        "image": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Dr. Ava Thomas",
+        "specialization": "Dentist",
+        "clinic_address": "340 Smile Ave, Atlanta, GA",
+        "experience": 7,
+        "appointment_fees": 90,
+        "contact": "ava.thomas@example.com",
+        "image": "https://randomuser.me/api/portraits/women/33.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Dr. James White",
+        "specialization": "General Physician",
+        "clinic_address": "350 Wellness Rd, Austin, TX",
+        "experience": 13,
+        "appointment_fees": 100,
+        "contact": "james.white@example.com",
+        "image": "https://randomuser.me/api/portraits/men/34.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Dr. Lily Harris",
+        "specialization": "Oncologist",
+        "clinic_address": "360 Cancer Care St, Philadelphia, PA",
+        "experience": 17,
+        "appointment_fees": 250,
+        "contact": "lily.harris@example.com",
+        "image": "https://randomuser.me/api/portraits/women/35.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Dr. John Doe",
+        "specialization": "Cardiologist",
+        "clinic_address": "370 Heart Lane, New York, NY",
+        "experience": 12,
+        "appointment_fees": 150,
+        "contact": "john.doe@example.com",
+        "image": "https://randomuser.me/api/portraits/men/36.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Dr. Sarah Smith",
+        "specialization": "Dermatologist",
+        "clinic_address": "380 Skin Care Ave, Los Angeles, CA",
+        "experience": 8,
+        "appointment_fees": 120,
+        "contact": "sarah.smith@example.com",
+        "image": "https://randomuser.me/api/portraits/women/37.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Dr. Robert Brown",
+        "specialization": "Orthopedic Surgeon",
+        "clinic_address": "390 Bone Street, Chicago, IL",
+        "experience": 15,
+        "appointment_fees": 180,
+        "contact": "robert.brown@example.com",
+        "image": "https://randomuser.me/api/portraits/men/38.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Dr. Emily Davis",
+        "specialization": "Pediatrician",
+        "clinic_address": "400 Kids Care Rd, Houston, TX",
+        "experience": 10,
+        "appointment_fees": 100,
+        "contact": "emily.davis@example.com",
+        "image": "https://randomuser.me/api/portraits/women/39.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Dr. Michael Johnson",
+        "specialization": "Neurologist",
+        "clinic_address": "410 Brain Ave, Miami, FL",
+        "experience": 20,
+        "appointment_fees": 200,
+        "contact": "michael.johnson@example.com",
+        "image": null
+    },
+    {
+        "id": 42,
+        "name": "Dr. Sophia Lee",
+        "specialization": "Gynecologist",
+        "clinic_address": "420 Women's Health Blvd, Seattle, WA",
+        "experience": 14,
+        "appointment_fees": 140,
+        "contact": "sophia.lee@example.com",
+        "image": null
+    },
+    {
+        "id": 43,
+        "name": "Dr. Daniel Wilson",
+        "specialization": "Psychiatrist",
+        "clinic_address": "430 Mind Care St, Denver, CO",
+        "experience": 9,
+        "appointment_fees": 130,
+        "contact": "daniel.wilson@example.com",
+        "image": null
+    },
+    {
+        "id": 44,
+        "name": "Dr. Olivia Martinez",
+        "specialization": "ENT Specialist",
+        "clinic_address": "440 Ear Nose Throat Dr, Boston, MA",
+        "experience": 11,
+        "appointment_fees": 110,
+        "contact": "olivia.martinez@example.com",
+        "image": null
+    },
+    {
+        "id": 45,
+        "name": "Dr. William Anderson",
+        "specialization": "Ophthalmologist",
+        "clinic_address": "450 Vision Lane, San Diego, CA",
+        "experience": 18,
+        "appointment_fees": 160,
+        "contact": "william.anderson@example.com",
+        "image": null
+    },
+    {
+        "id": 46,
+        "name": "Dr. Ava Thomas",
+        "specialization": "Dentist",
+        "clinic_address": "460 Smile Ave, Atlanta, GA",
+        "experience": 7,
+        "appointment_fees": 90,
+        "contact": "ava.thomas@example.com",
+        "image": null
+    },
+    {
+        "id": 47,
+        "name": "Dr. James White",
+        "specialization": "General Physician",
+        "clinic_address": "470 Wellness Rd, Austin, TX",
+        "experience": 13,
+        "appointment_fees": 100,
+        "contact": "james.white@example.com",
+        "image": null
+    },
+    {
+        "id": 48,
+        "name": "Dr. Lily Harris",
+        "specialization": "Oncologist",
+        "clinic_address": "480 Cancer Care St, Philadelphia, PA",
+        "experience": 17,
+        "appointment_fees": 250,
+        "contact": "lily.harris@example.com",
+        "image": null
+    },
+    {
+        "id": 49,
+        "name": "Dr. John Doe",
+        "specialization": "Cardiologist",
+        "clinic_address": "490 Heart Lane, New York, NY",
+        "experience": 12,
+        "appointment_fees": 150,
+        "contact": "john.doe@example.com",
+        "image": null
+    },
+    {
+        "id": 50,
+        "name": "Dr. Sarah Smith",
+        "specialization": "Dermatologist",
+        "clinic_address": "500 Skin Care Ave, Los Angeles, CA",
+        "experience": 8,
+        "appointment_fees": 120,
+        "contact": "sarah.smith@example.com",
+        "image": null
+    },
+    {
+        "id": 51,
+        "name": "Dr. Robert Brown",
+        "specialization": "Orthopedic Surgeon",
+        "clinic_address": "510 Bone Street, Chicago, IL",
+        "experience": 15,
+        "appointment_fees": 180,
+        "contact": "robert.brown@example.com",
+        "image": null
+    },
+    {
+        "id": 52,
+        "name": "Dr. Emily Davis",
+        "specialization": "Pediatrician",
+        "clinic_address": "520 Kids Care Rd, Houston, TX",
+        "experience": 10,
+        "appointment_fees": 100,
+        "contact": "emily.davis@example.com",
+        "image": null
+    },
+    {
+        "id": 53,
+        "name": "Dr. Michael Johnson",
+        "specialization": "Neurologist",
+        "clinic_address": "530 Brain Ave, Miami, FL",
+        "experience": 20,
+        "appointment_fees": 200,
+        "contact": "michael.johnson@example.com",
+        "image": null
+    },
+    {
+        "id": 54,
+        "name": "Dr. Sophia Lee",
+        "specialization": "Gynecologist",
+        "clinic_address": "540 Women's Health Blvd, Seattle, WA",
+        "experience": 14,
+        "appointment_fees": 140,
+        "contact": "sophia.lee@example.com",
+        "image": null
+    },
+    {
+        "id": 55,
+        "name": "Dr. Daniel Wilson",
+        "specialization": "Psychiatrist",
+        "clinic_address": "550 Mind Care St, Denver, CO",
+        "experience": 9,
+        "appointment_fees": 130,
+        "contact": "daniel.wilson@example.com",
+        "image": null
+    },
+    {
+        "id": 56,
+        "name": "Dr. Olivia Martinez",
+        "specialization": "ENT Specialist",
+        "clinic_address": "560 Ear Nose Throat Dr, Boston, MA",
+        "experience": 11,
+        "appointment_fees": 110,
+        "contact": "olivia.martinez@example.com",
+        "image": null
+    },
+    {
+        "id": 57,
+        "name": "Dr. William Anderson",
+        "specialization": "Ophthalmologist",
+        "clinic_address": "570 Vision Lane, San Diego, CA",
+        "experience": 18,
+        "appointment_fees": 160,
+        "contact": "william.anderson@example.com",
+        "image": null
+    },
+    {
+        "id": 58,
+        "name": "Dr. Ava Thomas",
+        "specialization": "Dentist",
+        "clinic_address": "580 Smile Ave, Atlanta, GA",
+        "experience": 7,
+        "appointment_fees": 90,
+        "contact": "ava.thomas@example.com",
+        "image": null
+    },
+    {
+        "id": 59,
+        "name": "Dr. James White",
+        "specialization": "General Physician",
+        "clinic_address": "590 Wellness Rd, Austin, TX",
+        "experience": 13,
+        "appointment_fees": 100,
+        "contact": "james.white@example.com",
+        "image": null
+    },
+    {
+        "id": 60,
+        "name": "Dr. Lily Harris",
+        "specialization": "Oncologist",
+        "clinic_address": "600 Cancer Care St, Philadelphia, PA",
+        "experience": 17,
+        "appointment_fees": 250,
+        "contact": "lily.harris@example.com",
+        "image": null
+    }
+]

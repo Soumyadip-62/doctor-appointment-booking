@@ -1,26 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
   :root {
-    --background: #ffffff;
+    --background: #d6e7de;
     --foreground: #171717;
+    --primary: #34bce3;
+    --secondary: #344ee3;
+    --text-primary: #0c2529;
+    --text-secondary: #0a161a;
+    --sidebar-bg: #9cdff5;
   }
   .dark {
-    --background: #0a0a0a;
+    --background: #13211e;
     --foreground: #ededed;
+    --primary: #34bce3;
+    --secondary: #344ee3;
+    --text-primary: #ffffff;
+    --text-secondary: #e9dbc9;
+    --sidebar-bg: #1c2e38;
   }
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Light background */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary); /* Uses your primary color */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary); /* Darker shade on hover */
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--primary) #f1f1f1;
 }
 
 body {
-  color: var(--foreground);
+  color: var(--text-primary);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
 }
 
-@layer {
+@layer base {
   body {
     @apply p-3;
+  }
+
+  h1 {
+    @apply text-[56px] font-ubuntu;
+  }
+
+  a {
+    @apply text-sm;
   }
 }

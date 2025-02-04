@@ -11,6 +11,15 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: "var(--primary)",
+        secondary: "var(--secondary)",
+        "text-primary": "var(--text-primary)",
+        "text-secondary": "var(--text-secondary)",
+        "sidebar-bg": "var(--sidebar-bg)",
+      },
+      fontFamily: {
+        poppins: "var(--font-poppins-sans)",
+        ubuntu: "Ubuntu, serif",
       },
     },
   },
